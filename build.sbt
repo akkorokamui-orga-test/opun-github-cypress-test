@@ -1,1 +1,1 @@
-V2tjeFYyVlhUWGxpU0ZwcFlWVkZNbFZHVGtKaFZURlVUa2hzVGxVd2F6az0=
+version := "0.0.0-SNAPSHOT"
