@@ -1,1 +1,1 @@
-WkcxV2VXTXliSFppYVVFMlVGTkJhVTFUTkhsTlUwazk=
+version := "1.23"
