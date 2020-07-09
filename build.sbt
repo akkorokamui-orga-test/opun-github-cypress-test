@@ -1,1 +1,1 @@
-version := "0.0.0-SNAPSHOT"
+dmVyc2lvbiA6PSAiMS4yMSI=
