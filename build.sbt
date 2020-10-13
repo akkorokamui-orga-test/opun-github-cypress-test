@@ -1,3 +1,3 @@
 
-// éèà
-version := "0.0.0-SNAPSHOT"
+// Ã©Ã¨Ã 
+version := "1.2"
