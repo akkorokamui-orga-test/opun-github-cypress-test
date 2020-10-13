@@ -1,3 +1,3 @@
 
 // éèà
-version := "1.8"
+version := "0.0.0-SNAPSHOT"
